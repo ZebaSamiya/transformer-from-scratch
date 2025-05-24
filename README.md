@@ -1,6 +1,6 @@
 # GPT from Scratch
 
-## Team Members (Group 4)
+## Team Members
 - Vishruth Byaramudu Lokesh
 - Zeba Samiya
 - Himanshu Singh Rao
